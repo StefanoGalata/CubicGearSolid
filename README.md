@@ -1,4 +1,4 @@
-"# CubicGearSolid" 
+# CubicGearSolid 
 
 A game made with Unity for an university project.
 Inspired by stealth game such as Metal Gear Solid.
