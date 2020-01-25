@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cbcd5255e9e25472abf23f74e92e3a46
+timeCreated: 1526538045
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Metal Gear Solid 2
+  fontNames:
+  - Metal Gear Solid 2
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

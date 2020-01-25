@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: SciFiGuardAnimController
+  m_Controller: {fileID: 9100000, guid: d3d9d4ebb759c44838c3a47ead9697c7, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: ae974b8959da5554b8b1d24ef2bc2ad3, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: e842d52bbeb5a7244ae4a58f71607353, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 030890c62e632f443bc46d249f3981f4, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 838ba3817f0958749aeab3ffcd3738bc, type: 2}
